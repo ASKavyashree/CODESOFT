@@ -10,6 +10,10 @@ LIGHT_BLUE = "#CCEDFF"
 OFF_WHITE = "#F8FAFF"
 DIGITS_FONT_STYLE = ("Arial", 24, "bold")
 
+
+#This is something change
+
+
 class Calculator:
     def __init__(self):
         self.window = tk.Tk()
